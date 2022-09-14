@@ -1,0 +1,105 @@
+body{
+	background:url('../imagens/fundo.jpg') repeat-x;
+	font-family:AdventPro SemiBold;
+	font-size:20;
+	margin:0px;
+}
+
+div#header{
+	width:1300px;
+	height:110px;
+	margin:0px auto;
+}
+
+div#header h1{
+	width:320px;
+	height:64px;
+	margin-top:40px;
+	display:block;
+	float:left;
+	margin-left:70px;
+}
+
+ul#nav{
+	list-style:none;
+	padding-left:0px;
+	display:block;
+	float:left;	
+	margin-left:100px;
+	margin-top:70px
+}
+
+ul#nav li{
+	float:left;
+	margin-left:50px;
+}
+
+ul#nav a{
+	text-decoration:none;
+	color:#ffffff;
+	padding-top:8px;
+}
+
+ul#nav a:hover{
+	border-top:5px solid #ffffff;
+}
+
+div#banner{
+	margin-left:450px;
+	margin-top:30px;
+}
+
+div#barras{
+	margin-left:680px;
+	margin-top:-205px;
+}
+
+div#ponto{
+	margin-left:100px;
+	margin-top:-120px;
+}
+
+div#title{
+	margin-left:90px;
+	margin-top:70px;
+	font-family:AdventPro SemiBold;
+	font-size:100;
+	color:#ffffff;
+}
+
+div#subtitle{
+	margin-left:90px;
+	margin-top:-10px;
+	font-family:AdventPro Regular;
+	color:#ffffff;
+	list-style:none;
+	font-size:30;
+}
+
+div#x{
+	margin-left:800px;
+	margin-top:-50px;
+}
+
+div#ball{
+	margin-left:1100px;
+	margin-top:-40px;
+}
+
+div#ball2{
+	margin-left:1200px;
+	margin-top:-280px;
+}
+
+div#btn{
+	margin-left:90px;
+	margin-top:70px;
+}
+
+div#txt{
+	margin-left:8px;
+	margin-top:-22px;
+	color:#ffffff;
+	font-size:16;
+	font-style:AdventPro SemiBold;
+}
